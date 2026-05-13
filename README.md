@@ -18,6 +18,7 @@ Compile the code using a C++17 compliant compiler:
 Run
 `.\library_app.exe`
 
-Output:
+## 🚀 Output:
+
 <img width="901" height="451" alt="image" src="https://github.com/user-attachments/assets/2d3aff91-f4a8-4eff-a9d0-cfe83041de22" />
 
