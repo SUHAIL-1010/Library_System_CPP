@@ -15,3 +15,9 @@ A high-performance, multi-threaded Library Management System built in Modern C++
 ## ⚙️ How to Run
 Compile the code using a C++17 compliant compiler:
 `g++ -std=c++17 main.cpp Library.cpp -o library_app -pthread`
+Run
+`.\library_app.exe`
+
+Output:
+<img width="901" height="451" alt="image" src="https://github.com/user-attachments/assets/2d3aff91-f4a8-4eff-a9d0-cfe83041de22" />
+
